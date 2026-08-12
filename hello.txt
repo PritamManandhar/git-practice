@@ -1,3 +1,4 @@
 Hello Git!
 I am learning Git.
 I am learning GitHub too.
+I am practicing Git pull.
